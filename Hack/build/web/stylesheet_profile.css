@@ -1,0 +1,52 @@
+div {
+	
+	
+}
+
+.headerleft {
+	text-align: left;
+
+}
+
+.headerright {
+	text-align: right;
+}
+
+p {
+	font-family:Noto Sans;
+	font-size:175%;
+}
+
+table {
+	
+	text-align:center;
+	font-size:150%;
+	
+	
+}
+
+th {
+		
+		text-align:center;
+		background-color:#A5B4CC;
+		font-size:150%;
+}
+table tr:nth-child(even) {
+    background-color: #FFFFFF;
+}
+table tr:nth-child(odd) {
+    background-color: #42E2F4;
+}
+
+.meets_header {
+	text-align: center;
+	font-family:Ubuntu;
+	color:#000000;
+	font-size: 300%;
+
+}
+
+
+body{
+
+background-color : #B0B0B0;}

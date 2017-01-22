@@ -1,0 +1,41 @@
+.cb {
+	width: 25px;
+	text-align:left;
+}
+
+
+select {
+	width: 150px;
+	text-align:center;
+}
+
+h3 {
+	font-family: Ubuntu;
+	text-align: center;
+	font-size: 200%;
+	color: #000000;
+	
+}
+
+.signupform {
+		text-align:center;
+		
+}
+
+input {
+	width:250px;
+	
+}
+
+
+.rb {
+	width: 100px;
+}
+
+body{
+
+background-color : #B0B0B0;}
+
+.div_left {
+	text-align: left;
+}
